@@ -1,4 +1,4 @@
-print("DÜNYADAN OBEZLERİ TEMİZLEME DERNEĞİ ?")
+print("POLAT YAZILIM BİLGİ İŞLEM TOOL'UNA HOŞGELDİNİZ")
 boy = float(input("Boy (m):"))
 kilo = int(input("Kilo (kg):"))
 yaş = int(input("Yaş (gerçek):")) 
